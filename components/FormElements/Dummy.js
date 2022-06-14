@@ -1,0 +1,1 @@
+let para1 = "This is a dummy paragraph"
